@@ -1,0 +1,4 @@
+Interface graphique: http://localhost:8080/swagger-ui/index.html
+
+-Requête GET pour convert
+http://localhost:8080/swagger-ui/index.html#/currency-controller/convert
